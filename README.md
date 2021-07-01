@@ -1,2 +1,2 @@
 # Masters-Dissertation
-Clustering Algorithms applied to unsupervised feature extraction for categorical, numeric, and free text data
+This repository contains the code and final paper for my master’s dissertation project. The project is the culmination of earning my MSc in Business Analytics from the University College of London. This project began as a customer segmentation exercise in partnership with Centrepoint, a UK-based non-profit focused on helping young people at risk of or experiencing homelessness. The work involves applying clustering Algorithms to unsupervised feature extraction for categorical, numeric, and free text features, with the final paper and Jupyter notebook providing a detailed explanation of the project's context, methodology, and results. 
